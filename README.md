@@ -2,7 +2,8 @@
 # SADProject
 this is the project of System Analysis Development module.
 
-doc link :
+doc link
+from this link you can read all the details releated to the project:
 https://docs.google.com/document/d/13Ywg-mlnVVx0dYM5SNZxr-huNCiZTERmiAG5-curp0Q/edit?usp=sharing
 
 References
